@@ -5,7 +5,7 @@ a {color:#333;}
 #header {width:100%; padding:50px 0; margin:0 0 50px; border-bottom:1px solid #333;}
 #header .headerContent {width:960px; margin:0 auto;}
         .headerContent h1 {font-size:1.3em;}
-        .headerContent span {padding:5px 10px; background:#53D4FF; color:#fff; font-size:1.6em;}
+        .headerContent span {padding:5px 10px; background:#333; color:#fff; font-size:1.6em;}
 
 #content {overflow:hidden; width:960px; margin:0 auto; margin-bottom:50px;}
 #content .mainBody {width:700px; float:left; line-height:1.5em;}
