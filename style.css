@@ -1,17 +1,28 @@
 * {margin:0; padding:0;}
 body {font-family:'Helvetica', sans-serif;}
 a {color:#333;}
+a:hover {text-decoration:none;}
 
 #header {width:100%; padding:50px 0; margin:0 0 50px; border-bottom:1px solid #333;}
 #header .headerContent {width:960px; margin:0 auto;}
         .headerContent h1 {font-size:1.3em;}
         .headerContent span {padding:5px 10px; background:#333; color:#fff; font-size:1.6em;}
+        #nav {float:right; list-style:none;}
+        #nav li {display:inline; padding:0 0 0 34px;}
 
 #content {overflow:hidden; width:960px; margin:0 auto; margin-bottom:50px;}
 #content .mainBody {width:700px; float:left; line-height:1.5em;}
          .mainBody p {font-size:.9em;}
 #content .secondaryBody {width:245px; margin:0 0 0 15px; float:left;}
-         .secondaryBody ul {margin:0 0 0 20px;}
+         .secondaryBody h4 {margin:0 0 10px;}
+         .secondaryBody ul {list-style:none;}
+         .secondaryBody img {width:245px;}
+                        #sponsorSignup {display:block; width:243px; margin:0 0 10px; padding:20px 0 17px; border-radius:5px; font-size:20px; font-weight:bold; color:#fff; text-shadow:0 -.09em 1px rgba(0,0,0,.5); background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#FF4D00), to(#DB4200)); border-width:0; box-shadow:1px 1px 1px rgba(0,0,0,.7); text-align:center; text-decoration:none;}
+                        #sponsorSignup:hover {background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#FF4D00), to(#C43B00));}
+
+         .schedule ul {list-style:disc; margin:0 0 0 20px;}
+         .schedule h2 {margin:0 0 10px;}
+         .schedule h3 {font-size:1.1em;}
 
 #footer {clear:both; width:100%; padding:20px 0; border-top:1px solid #333;}
 #footer .footerContent {width:960px; margin:0 auto;}
