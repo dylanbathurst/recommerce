@@ -25,6 +25,7 @@ a:hover {text-decoration:none;}
          .schedule h3 {font-size:1.1em;}
          .sponsorship ul {list-style:disc; margin:0 0 0 20px;}
          .sponsorship h2 {margin:0 0 10px;}
+         .sponsor p {margin:0 0 10px;}
 
 #footer {clear:both; width:100%; padding:20px 0; border-top:1px solid #333;}
 #footer .footerContent {width:960px; margin:0 auto;}
