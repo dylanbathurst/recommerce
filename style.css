@@ -28,8 +28,8 @@ a:hover {text-decoration:none;}
          .sponsorship h2 {margin:0 0 10px;}
          .sponsorship div {margin: 10px 0;}
          .sponsor p {margin:0 0 10px;}
-	 .location {margin: 2em 0;}
-         .location li {font-size: .8em; margin: -.4em 0;}
+	 .location {margin: .3em 0 0 0;}
+         .location li {font-size: .9em; margin: -.4em 0;}
          div {margin:10px 0;} 
 #footer {clear:both; width:100%; padding:20px 0; border-top:1px solid #333;}
 #footer .footerContent {width:960px; margin:0 auto;}
