@@ -16,7 +16,7 @@ a:hover {text-decoration:none;}
 #content .secondaryBody {width:245px; margin:0 0 0 15px; float:left;}
          .secondaryBody h4 {margin:0 0 10px;}
          .secondaryBody ul {list-style:none;}
-         .secondaryBody img {width:245px;}
+         .secondaryBody img {max-width: 200px;}
                         #sponsorSignup {display:block; width:243px; margin:0 0 10px; padding:20px 0 17px; border-radius:5px; font-size:20px; font-weight:bold; color:#fff; text-shadow:0 -.09em 1px rgba(0,0,0,.5); background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#FF4D00), to(#DB4200)); border-width:0; box-shadow:1px 1px 1px rgba(0,0,0,.7); text-align:center; text-decoration:none;}
                         #sponsorSignup:hover {background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#FF4D00), to(#C43B00));}
 
@@ -28,6 +28,7 @@ a:hover {text-decoration:none;}
          .sponsorship h2 {margin:0 0 10px;}
          .sponsorship div {margin: 10px 0;}
          .sponsor p {margin:0 0 10px;}
+	 .sponsor hr {margin: 10px 0;}
 	 .location {margin: .3em 0 0 0;}
          .location li {font-size: .9em; margin: -.4em 0;}
          div {margin:10px 0;} 
