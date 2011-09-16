@@ -13,6 +13,8 @@ a:hover {text-decoration:none;}
 #content {overflow:hidden; width:960px; margin:0 auto; margin-bottom:50px;}
 #content .mainBody {width:700px; float:left; line-height:1.5em;}
          .mainBody p {font-size:.9em;}
+	 .mainBody h3 {margin: 5px 0;}
+	 .mainBody h4 {color:red;}
 #content .secondaryBody {width:245px; margin:0 0 0 15px; float:left;}
          .secondaryBody h4 {margin:0 0 10px;}
          .secondaryBody ul {list-style:none;}
@@ -29,6 +31,8 @@ a:hover {text-decoration:none;}
          .sponsorship div {margin: 10px 0;}
          .sponsor p {margin:0 0 10px;}
 	 .sponsor hr {margin: 10px 0;}
+	 .cheat h3 {margin: 10px 0 5px 0;}
+	 .cheat li {font-size:.9em;} 
 	 .location {margin: .3em 0 0 0;}
          .location li {font-size: .9em; margin: -.4em 0;}
 	 .prizeSponsors img {width:80px; padding: 8px;}
